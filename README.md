@@ -1,6 +1,4 @@
-# proj-stock
-
-# STOCK ANALYSIS WITH VBA 
+# VBA-Challenge
 
 ## Purpose 
 In this project we use VBA scripting to analyze generated stock market data. We loop through all the data one time in order to collect an entire dataset. 
