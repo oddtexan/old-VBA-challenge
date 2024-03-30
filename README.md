@@ -1,5 +1,7 @@
 # VBA-Challenge
 
+# Please find attached, the SCREENSHOTS of results with names 2018.png, 2019.png and 2020.png AND SCRIPT FILE with the name Multiyear Stock Data.vb for the code.
+
 ## Purpose 
 In this project we use VBA scripting to analyze generated stock market data. We loop through all the data one time in order to collect an entire dataset. 
 
